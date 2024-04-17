@@ -1,4 +1,4 @@
-# Ollama Expiriments on WSL2/Win11
+# Ollama on WSL2/Win11
 
 The intent of this repository is for expirimentation with the tool Ollama. 
 The best description that I have heard is that it is equivalent to the Docker but for AI.
